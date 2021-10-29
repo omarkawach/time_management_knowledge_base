@@ -14,7 +14,7 @@ Minimum of 5 interconnected notes with 1 master note that provides entry to all 
 - The interconnected notes may focus on sub-categories of the topic, specific systems, specific concepts or anything else relevant 
 	- Must also explain the main approach and assumptions used to achieve cognitive augmentation with some illustrations.  
 
-Notes should be appropriately interconnected and contain links to externel resources. 
+Notes should be appropriately interconnected and contain links to external resources. 
 
 
 
