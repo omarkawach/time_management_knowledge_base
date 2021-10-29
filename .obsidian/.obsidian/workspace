@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1831676e7d7ae2cc",
+        "id": "a1d81d89ce341546",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Computing Systems for Time Management.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f697b9a803bbdf2b",
@@ -86,8 +87,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1831676e7d7ae2cc",
+  "active": "a1d81d89ce341546",
   "lastOpenFiles": [
-    "Computing Systems for Time Management.md"
+    "Computing Systems for Time Management.md",
+    "Subpage.md"
   ]
 }
