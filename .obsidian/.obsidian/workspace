@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing Systems for Time Management.md",
-            "mode": "preview"
+            "file": "Workflow.md",
+            "mode": "source"
           }
         }
       }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f697b9a803bbdf2b",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Systems for Time Management.md",
+                "file": "Workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +88,15 @@
   },
   "active": "a1d81d89ce341546",
   "lastOpenFiles": [
+    "Workflow.md",
+    "Tools.md",
+    "Time Management Tools.md",
+    "Task Prioritization.md",
+    "Internet of Things.md",
+    "Intelligent Digital Personal Assistants.md",
+    "Digital Personal Assistants.md",
     "Computing Systems for Time Management.md",
-    "Subpage.md"
+    "Augment.md",
+    "Artificial intelligence.md"
   ]
 }
