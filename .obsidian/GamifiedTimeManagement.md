@@ -18,6 +18,8 @@ Gamification designs, such as storytelling, challenges, strategy, rewards, partn
 
 The research suggests that time-management skills learned through the behaviour change model are stored in the short-term memory. The willingness to follow the training manual was also increased.
 
+## Habitica
+An exemplary software, [Habitica](https://habitica.com/), presents gamified scheduling functions. It lets the users add tasks in the system and rewards them with coins when they are accomplished. The coins can be used to buy in-game items. Users can create groups and share their achievements. Some quests and challenges motivate them to be involved with the gamified time-management.
 
 ## References
 [1] T. Cassells and D. O. Brain, “The effect of gamification on intrinsic motivation for prioritisation,” *2018 IEEE Games, Entertainment, Media Conference (GEM)*, 2018. 
