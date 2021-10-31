@@ -48,6 +48,6 @@ https://trevorai.com/
 
   
 
-[3] Yang, Chenxi, Yang Chen, and Yuan Xuan. "Sensing People's Time Management Behaviors: A Study Using Wearable Devices." Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems. 2018. ^83ea91
+[3] Yang, Chenxi, Yang Chen, and Yuan Xuan. "Sensing People's Time Management Behaviors: A Study Using Wearable Devices." Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems. 2018.
 
  
