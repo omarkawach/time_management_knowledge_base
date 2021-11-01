@@ -2,7 +2,7 @@
 Traditional calendars are handy planning and time management tools but, when taken digitally, become an even more powerful way for users to schedule their days down to the exact minute. According to a [survey done by ECAL](https://ecal.com/70-percent-of-adults-rely-on-digital-calendar/) around 70% of adults in Australia rely on digital calendars [[1](#References)]. Judy Wajcman argues in their paper how this reliance reflects Silicon Valley's push to improve human efficiency and maximize the amount of work we can do in as little time as possible [[2](#References)]. They go on to explain how current calendar systems are designed specifically with "intelligent time management" in mind.
 
 ## Google Calendar
-Google’s calendar and reminder system is one of the most prevalent implementations of the digital calendar. 25% of digital calendar usage on mobile devices is through Google [by ECAL’s numbers](https://ecal.com/70-percent-of-adults-rely-on-digital-calendar/) [[1](#References)]. Unsurprisingly, another 25% use Apple’s calendar system instead, although this page will focus on the former. 
+[Google's Calendar and reminder system](https://www.google.com/calendar/about/) is one of the most prevalent implementations of the digital calendar [[3](#References)]. 25% of digital calendar usage on mobile devices is through Google [by ECAL’s numbers](https://ecal.com/70-percent-of-adults-rely-on-digital-calendar/) [[1](#References)]. Unsurprisingly, another 25% use Apple’s calendar system instead, although this page will focus on the former. 
 
 Google allows various kinds of events and reminders to be set up in different ways, to maximize the efficiency in which schedules can be off loaded from the mind into the calendar system. A given event can be configured to last for any stretch of time, at any point in the user’s future. These can be made into recurring events as well, and reminders can be set up to inform users when events start or are coming up.
 
@@ -26,3 +26,4 @@ Digital Calendars are useful [[planning]] tools as well, allowing for users to c
 
 [2] Wajcman, Judy. “The Digital Architecture of Time Management.” *Science, Technology, & Human Values*, vol. 44, no. 2, Mar. 2019, pp. 315–337
 
+[3] "Google Calendar: Free Calendar App for Personal Use", *Google*, https://www.google.com/calendar/about/.
