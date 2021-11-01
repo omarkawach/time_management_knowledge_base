@@ -1,10 +1,10 @@
 # Planning
 
-Time management involves choosing when and how long to perform certain tasks. Since only one task can be completed at a time, people have to make judgement calls regarding which tasks get priority over others. Tasks with higher priority will likely be completed first and at the time(s) of day the person generally does their best work. Dimitrova and Mancheva-Ali stated in their paper "Planning and Time Management" that "Each of us has a number of tasks to work on (day, week, or month), and depending on how we rank them by importance, we will get the results from our work, which contributes to the success of the whole organization" [1]. Here they are talking about time management within an organization, but this can apply to time management for individuals as well.
+Time management involves choosing when and how long to perform certain tasks. Since only one task can be completed at a time, people have to make judgement calls regarding [[Task Prioritization|which tasks get priority]] over others. Tasks with higher priority will likely be completed first and at the time(s) of day the person generally does their best work. Dimitrova and Mancheva-Ali stated in their paper "Planning and Time Management" that "Each of us has a number of tasks to work on (day, week, or month), and depending on how we rank them by importance, we will get the results from our work, which contributes to the success of the whole organization" [1]. Here they are talking about time management within an organization, but this can apply to time management for individuals as well.
 
 ## [KanbanFlow](https://kanbanflow.com/)
 
-KanbanFlow is a project management tool that individuals and teams can use to plan out their different tasks and assign priorities. The benefit of this tool is that it is very customizable, so it does not constrain the user by forcing them to use it a certain way. The picture below shows a user that has customized the platform to reflect a typical week. 
+KanbanFlow is a project management [[Tools|tool]] that individuals and teams can use to plan out their different tasks and assign priorities. The benefit of this tool is that it is very customizable, so it does not constrain the user by forcing them to use it a certain way. The picture below shows a user that has customized the platform to reflect a typical week. 
 
 ![KanbanFlow Customized for Weekly Planning](./kanbanflow_main.PNG)
 

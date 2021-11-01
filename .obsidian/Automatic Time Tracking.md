@@ -1,5 +1,5 @@
 # Automatic Time Tracking
-A recent innovation in the history of humankind to manage the most priceless and limited entity in our lives, 'TIME,' has led to the development of automatic time trackers or schedulers that rely on AI technologies for intelligence.  
+A recent innovation in the history of humankind to manage the most priceless and limited entity in our lives, 'TIME,' has led to the development of automatic time trackers or schedulers that rely on [[Artificial intelligence|AI]] technologies for intelligence.  
 
 But what do we mean by automatic time tracking?
 

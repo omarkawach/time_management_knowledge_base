@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow.md",
+            "file": "Computing Systems for Time Management.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow.md",
+                "file": "Computing Systems for Time Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "a1d81d89ce341546",
   "lastOpenFiles": [
-    "Workflow.md",
-    "Tools.md",
-    "Time Management Tools.md",
-    "Task Prioritization.md",
+    "Computing Systems for Time Management.md",
+    "Gamified Time Management.md",
+    "planning.md",
+    "kanbanflow_main.PNG",
     "Internet of Things.md",
     "Intelligent Digital Personal Assistants.md",
+    "Automatic Time Tracking.md",
+    "Digital Calenders.md",
     "Digital Personal Assistants.md",
-    "Computing Systems for Time Management.md",
-    "Augment.md",
-    "Artificial intelligence.md"
+    "1](.md"
   ]
 }
